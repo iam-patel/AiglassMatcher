@@ -1,0 +1,8 @@
+opencv-python
+mediapipe
+pillow
+python-dotenv
+anthropic
+requests
+numpy
+openai
