@@ -2,8 +2,7 @@ import cv2
 import numpy as np
 from PIL import Image
 import mediapipe as mp
-from mediapipe.tasks import python
-from mediapipe.tasks.python import vision
+
 
 # Load cascades
 _face_cascade      = cv2.CascadeClassifier(cv2.data.haarcascades + "haarcascade_frontalface_default.xml")
